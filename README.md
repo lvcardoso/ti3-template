@@ -9,7 +9,7 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 ## Professores responsáveis
 
-* Nome do professor que acompanha o projeto
+* Nome do professor 1
 * Nome do professor 2
 * Nome do professor 3
 * Nome do professor 3
